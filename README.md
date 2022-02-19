@@ -8,7 +8,7 @@ Given a word as input gives out a list of colors related to that word.
 ![ss2](https://user-images.githubusercontent.com/72071559/154809960-fda4521a-ba77-4ee8-8a97-1631091d6899.jpg)
 
 ## Tech Stack
-Tech Stack: HTML, CSS, Javascript, React
+HTML, CSS, Javascript, React
 
 ## Installation and Setup Instructions
 
