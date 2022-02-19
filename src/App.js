@@ -11,7 +11,7 @@ function App() {
   useEffect(() => {
     if(!search) return;
     axios
-      .get(`/customsearch/v1?key=AIzaSyD-a0mfpzuwzjSsps00cRJkPPZrB8512Qo&cx=d0eace92943d84996&`, {
+      .get(`https://www.googleapis.com/customsearch/v1?key=AIzaSyD-a0mfpzuwzjSsps00cRJkPPZrB8512Qo&cx=d0eace92943d84996&`, {
         params: {
           q: search,
           searchType: "image",
